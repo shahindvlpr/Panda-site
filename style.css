@@ -1,8 +1,8 @@
 .navbar-nav a {
     color: #000;
 }
-section.slide-area {
-    margin-top: 100px;
+section{
+    margin-bottom: 100px;
 }
 .slide-bg {
     background-color: #FEEAE9;
@@ -21,4 +21,23 @@ button.buy-now-button {
     padding: 9px 25px;
     cursor: pointer;
     text-transform: uppercase;
+}
+.catagories1{
+    background-color: #FF136F;
+}
+.catagories2{
+    background-color: #DA70D6;
+}
+.catagories3{
+    background-color: #0000FF;
+}
+.catagories1, .catagories2, .catagories3{
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
 }
