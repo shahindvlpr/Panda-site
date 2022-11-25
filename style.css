@@ -45,3 +45,26 @@ button.buy-now-button {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+h6.price{
+    color: #000;
+    font-size: 25px;
+}
+.card-footer{
+    background-color: #fff;
+    padding: 0;
+    border: none;
+}
+#subscribe{
+    height: 350px;
+}
+#subscribe h6{
+    color: gray;
+}
+.subscribe-area{
+    margin-bottom: 0;
+}
+footer p {
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 0;
+}
